@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    background-repeat: no-repeat;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+.jumbotron{
+    background: rgba(255, 227, 223, 0.815);
+    padding: 0px 20px;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+}    
